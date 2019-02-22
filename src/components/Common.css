@@ -1,0 +1,87 @@
+.title{
+    padding-top:20px;
+}
+
+.fa-whatsapp {
+    border: 1px solid green;
+    background-color: green;
+    width: 80px;
+    margin-right: 5px;
+}
+.fa-facebook{
+    border: 1px solid blue;
+    background-color: blue;
+    width: 80px;
+    margin-right: 5px; 
+}
+.fa-twitter{
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    width: 80px;
+    margin-right: 5px; 
+}
+.fa-mail{
+    border: 1px solid grey;
+    background-color: gray;
+    width: 80px;
+    margin-right: 5px;
+}
+.image-style{
+    border-radius: 50%
+}
+.person{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.subscribe{
+    background-color: orangered;
+    color: white;
+    border-radius: 8px;
+    position: relative;
+   
+    
+}
+.tag-css{
+    border: 1px solid blue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 8px;
+    color: blue
+}
+.tag{
+    margin-top: 10px;
+}
+.text-read{
+    color:orangered
+}
+@media screen and (max-width: 600px) {
+    .fa-whatsapp {
+        border: 1px solid green;
+        background-color: green;
+        width: 40px;
+        margin-right: 5px;
+    }
+    .fa-facebook{
+        border: 1px solid blue;
+        background-color: blue;
+        width: 40px;
+        margin-right: 5px; 
+    }
+    .fa-twitter{
+        border: 1px solid lightblue;
+        background-color: lightblue;
+        width: 40px;
+        margin-right: 5px; 
+    }
+    .fa-mail{
+        border: 1px solid grey;
+        background-color: gray;
+        width: 10px;
+        margin-right: 5px;
+    }
+    .text-display{
+        margin: auto;
+        width: 50%,
+        
+    }
+  }
